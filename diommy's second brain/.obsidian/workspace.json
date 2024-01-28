@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "583fe225e6451c7c",
+        "id": "0a61b3f5a48d3263",
         "type": "tabs",
         "children": [
           {
-            "id": "b0f5fb35192fd620",
+            "id": "7800a9443e401e37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reference books/Soft skills/Peopleware/Part I - Managing the human ressources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaed49b3eb9095e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference books/Technical/The pragmatic programmer/Part V - Bend or Break.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f116c1a2a8da3bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference books/Technical/The pragmatic programmer/The pragmatic programmer - Excerpt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference books/Technical/The pragmatic programmer/The pragmatic programmer - Excerpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reference books/Technical/The pragmatic programmer/The pragmatic programmer - Excerpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +149,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference books/Technical/The pragmatic programmer/The pragmatic programmer - Excerpt.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,6 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0f5fb35192fd620",
-  "lastOpenFiles": []
+  "active": "6f116c1a2a8da3bb",
+  "lastOpenFiles": [
+    "Reference books/Technical/The pragmatic programmer/Part V - Bend or Break.md",
+    "Reference books/Technical/The pragmatic programmer/The pragmatic programmer - Excerpt.md",
+    "Reference books/Soft skills/Peopleware/Part I - Managing the human ressources.md",
+    "Reference books/Soft skills/Peopleware",
+    "Reference books/Technical/The pragmatic programmer",
+    "Reference books/Soft skills",
+    "Reference books/Technical",
+    "Reference books"
+  ]
 }
